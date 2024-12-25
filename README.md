@@ -18,8 +18,11 @@ The dataset contains:
 - Customer information (age group, location, etc.).  
 - Product categories and revenue details.  
 
-## Dashboard Preview  
-*(Add screenshot here once ready)*  
+ ## Dashboard Preview  
+This is a preview of the Power BI Sales Dashboard:  
+
+[Power BI Dashboard](https://github.com/Shivasai45/Performance-Insights-Dashboard/raw/main/dashboard-overview.png)  
+
 
 ## Insights  
 1. Identified the most profitable region with 35% contribution to total revenue.  
