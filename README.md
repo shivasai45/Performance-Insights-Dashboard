@@ -5,7 +5,7 @@ This project features an interactive and visually appealing sales dashboard buil
 
 ## Features  
 - **Dynamic Filters**: Slicers to filter data by region, time, and category.  
-- **KPIs**: Highlighting total sales, profit margins, and growth trends.  
+- **KPIs**: Highlighting total sales, total orders, and growth trends.  
 - **Interactive Visuals**: Bar charts, line graphs, and cards for clear data representation.  
 
 ## Tools Used  
@@ -15,7 +15,7 @@ This project features an interactive and visually appealing sales dashboard buil
 ## Dataset  
 The dataset contains:  
 - Sales data across multiple regions.  
-- Customer information (age group, location, etc.).  
+- Sales Person details.  
 - Product categories and revenue details.  
 
  ## Dashboard Preview  
