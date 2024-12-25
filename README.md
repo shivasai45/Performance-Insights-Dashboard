@@ -21,7 +21,7 @@ The dataset contains:
  ## Dashboard Preview  
 This is a preview of the Power BI Sales Dashboard:  
 
-[Power BI Dashboard](https://github.com/Shivasai45/Performance-Insights-Dashboard/raw/main/Dashboard image.png)  
+[Power BI Dashboard](https://github.com/shivasai45/Performance-Insights-Dashboard/blob/main/Dashboard%20image.png)
 
 
 ## Insights  
